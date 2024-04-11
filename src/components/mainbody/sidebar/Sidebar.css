@@ -1,0 +1,7 @@
+.out {
+  display: flex;
+  justify-content: center;
+}
+.sidebar-container {
+  width: 500px;
+}
